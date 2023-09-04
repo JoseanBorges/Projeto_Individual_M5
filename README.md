@@ -8,7 +8,7 @@ Bem vindo à visualização da pesquisa da com base no dataset "Pessoas deixando
 À medida que mergulhamos mais profundamente na análise, é nosso objetivo desvendar as nuances e tendências subjacentes que podem não ser imediatamente aparentes. A retenção de talentos é uma questão crucial para qualquer organização, e entender os fatores que influenciam as decisões de saída dos colaboradores pode oferecer insights valiosos para melhorias internas.
 
 ## Ferramentas utilizadas
-![Alt text](image.png) ![Alt text](image-1.png)
+![Tableau](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M5/main/Prints%20dos%20gr%C3%A1ficos/image.png) ![Colab](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M5/main/Prints%20dos%20gr%C3%A1ficos/image-1.png)
 
 ## Análise
 Nesta parte, discorreremos sobre as conclusões obtidas após o exame dos dados e as percepções adquiridas durante o estudo. É crucial assimilar os achados centrais provenientes desta investigação, visto que podem direcionar futuras decisões e intervenções. Vejamos as descobertas e percepções mais relevantes:
